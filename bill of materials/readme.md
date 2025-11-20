@@ -15,7 +15,7 @@
 |         10|   Keeppower 2x 18650  batterijendoosje | batterijdoos           | nieuw          | €0.75             |1      | €0.75        |
 |         11|   XTAR MC2 USB-C batterijlader | batterijlader           |  nieuw         | €4.75             |1      | €4.75        |
 |         12|    | klemschroefblok 2 pins          | recup          |              |  2    |         |
-|         14|    |            |           |              |      |         |
+|         14|    JLCPCB| zelf ontworpen pcb            |   nieuw        |       1       |  € 4.245   |         |
 |         1|    |            |           |              |      |         |
 |         1|    |            |           |              |      |         |
 |         1|    |            |           |              |      |         |
