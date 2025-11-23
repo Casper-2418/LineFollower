@@ -12,8 +12,8 @@
 |         7|   15 Pins header Female | fermale headers 15 pinss           | nieuw          |  €0.31            | 2     | €0.62        |
 |         8|   18650   | batterij          | nieuw          | €1.45             | 2     | €2.90        |
 |         9|    2x 18650 Batterijhouder met klemkontacten en losse draden | Batterijhouder          |  nieuw         | €1.59             | 1     |  €1.59       |
-|         11|    | klemschroefblok 2 pins          | recup          |         (prijs niet bekend)     |  2    |  (prijs niet bekend)       |
-|         12|    JLCPCB| zelf ontworpen pcb            |   nieuw        |      € 4.245       |  1 |       € 4.245    |
-|         1|    |            |           |              |      |         |
+|         11|    | klemschroefblok 2 pins          | recup          |         €0.55     |  2    |  €1.10       |
+|         12|    JLCPCB| zelf ontworpen pcb            |   nieuw        |      €4.245       |  1 |       €4.245    |
+|         13|  wielen  |       aliexpress wielen     |     nieuw      |     €0.98      |  2    |     €1.96    |
 |         1|    |            |           |              |      |         |
 |         1|    |            |           |              |      |         |
