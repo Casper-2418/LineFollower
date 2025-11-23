@@ -30,8 +30,9 @@ uitleg kalibratie
 
 ### settings
 De robot rijdt stabiel met volgende parameters: 
-| KP | KI | KD | diff | Power | snelheid |
-| 30 | 0.1 | 0.35 | 0.6 | 130 | 0.63m/S |
+
+| KP: 30  | KI: 0.1 | KD: 0.35 | diff:  0.6 | Power: 130 | snelheid: 0.63m/S |
+
 
 ### start/stop button
-uitleg locatie + werking start/stop button
+De start knop is aanwezig op de pcb, deze is geplaatst naast de sensoren (rechts voor). Deze knop zal de zelfde variable sturen als het commando run on. Om de follower te doen stoppen kan je een commande sturen of hem boven een wit blad houden (dit is zodat hij stopt met rijden als hij geen zwarte lijn meer ziet).
