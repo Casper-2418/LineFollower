@@ -1,7 +1,7 @@
 # LineFollower
 
+![516304872-0ebdff40-2b66-4d8c-be46-cdccf1087acf](https://github.com/user-attachments/assets/f421fef4-4a35-405a-92f4-922b17bad70c)
 
-![76ef0eb2-23a2-4d31-ad6a-62c0af1c42d8](https://github.com/user-attachments/assets/0ebdff40-2b66-4d8c-be46-cdccf1087acf)
 
 
 
