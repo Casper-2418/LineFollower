@@ -16,4 +16,4 @@
 |         12|    JLCPCB| zelf ontworpen pcb            |   nieuw        |      €4.245       |  1 |       €4.245    |
 |         13|  wielen  |       aliexpress wielen     |     nieuw      |     €0.98      |  2    |     €1.96    |
 |         |    |            |           |              |      |         |
-|         Tootaal|    |            |           |              |      |     €46,44    |
+|         Tootaal|    |  (zonder verzend kosten!!!!!)          |           |              |      |     €46,44    |
