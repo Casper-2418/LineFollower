@@ -11,7 +11,7 @@
 
 microcontroller: Arduino nano (clone)
 
-motors: Aslong JGA12-N20-30 DC-Transmissiemotor 6V - 500RPM (N20- 30:1)
+motors: N20---30:1---500RPM 
 
 h-bridge: DRV8833
 
@@ -21,9 +21,9 @@ batteries: 2x 18650 lipo
 
 wireless communication: HC-08 
 
-distance sensor - motors:
+distance sensor - motors: 9.92cm
 
-weight:
+weight: 214gr
 
-speed: 0.63m/s
+speed: 0.63m/s (voorlopige stabiele snelheid)
 
