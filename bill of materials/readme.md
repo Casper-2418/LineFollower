@@ -15,5 +15,5 @@
 |         11|    | klemschroefblok 2 pins          | recup          |         €0.55     |  2    |  €1.10       |
 |         12|    JLCPCB| zelf ontworpen pcb            |   nieuw        |      €4.245       |  1 |       €4.245    |
 |         13|  wielen  |       aliexpress wielen     |     nieuw      |     €0.98      |  2    |     €1.96    |
-|         1|    |            |           |              |      |         |
+|         |    |            |           |              |      |         |
 |         Tootaal|    |            |           |              |      |     €46,44    |
