@@ -16,13 +16,21 @@ De applicatie die gebruikt werdt om de commandos te sturen is "serial bluetooth 
 debug : debug
 start : run on
 stop  : zolang je een niet bekend commande typed zal hij stoppen
+
 set cycle [µs]  : set cycle ...
+
 set power [0..255]  : set power ...
+
 set diff [0..1]  : set diff ...
+
 set kp [0..]  set kp ...
+
 set ki [0..]  set ki ...
+
 set kd [0..]  set kd ...
+
 calibrate black  : calibrate black
+
 calibrate white  : calibrate white
 
 ### kalibratie
