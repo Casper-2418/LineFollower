@@ -14,7 +14,9 @@ De applicatie die gebruikt werdt om de commandos te sturen is "serial bluetooth 
 
 #### commando's
 debug : debug
+
 start : run on
+
 stop  : zolang je een niet bekend commande typed zal hij stoppen
 
 set cycle [µs]  : set cycle ...
