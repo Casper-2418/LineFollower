@@ -2,7 +2,7 @@
 
 ### opladen / vervangen batterijen
 Batterijen worden opgeladen met een lader die specifiek ontworpen is voor 18650 (Lithium) batterijen.
-Voor de batterijen kunnen worden ingestoken of verwijderd moet er gecontroleerd worden of de hoofdschekelaar van de pcb uitstaat (naar buitenste stand van de schekalaar)
+Voor de batterijen kunnen worden ingestoken of verwijderd moet er gecontroleerd worden of de hoofdschekelaar van de pcb uitstaat (naar buitenste stand van de schakelaar)
 
 ### draadloze communicatie
 #### verbinding maken
