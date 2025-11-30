@@ -25,5 +25,5 @@ distance sensor - motors: 9.92cm
 
 weight: 214gr
 
-speed: 0.63m/s (voorlopige stabiele snelheid)
+speed: 0.7m/s (voorlopige stabiele snelheid)
 
